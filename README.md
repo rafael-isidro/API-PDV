@@ -89,11 +89,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Node.js
 - Express
 - PostgreSQL
-- bcrypt
-- jsonwebtoken
-- multer
-- nodemailer
-- backblaze (ou algum outro serviço para armazenamento de imagem)
+- Bcrypt
+- Jsonwebtoken
+- Multer
+- Nodemailer
+- Backblaze (ou algum outro serviço para armazenamento de imagem)
 
 ---
 
