@@ -173,7 +173,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 ## 🦸 Autores
-
 <a href="https://github.com/rafael-isidro">
     <br />
     <sub><b>Rafael Isidro</b></sub>
