@@ -16,6 +16,7 @@ Tabela de conteúdos
      * [Rodando o Projeto](#rodando-o-projeto)
    * [Tecnologias](#-tecnologias)
    * [Estrutura do Projeto](#-estrutura-do-projeto)
+   * [Autores](#-autores)
 <!--te-->
 
 ## 💻 Sobre o projeto
@@ -168,5 +169,24 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ├── package-lock.json
 └── package.json
 
-
 ```
+
+---
+## 🦸 Autores
+
+<a href="https://github.com/rafael-isidro">
+    <br />
+    <sub><b>Rafael Isidro</b></sub>
+</a>
+<a href="https://github.com/tiraupp">
+    <br />
+    <sub><b>Tiago Raupp</b></sub>
+</a> 
+<a href="https://github.com/mariosilva81">
+    <br />
+    <sub><b>Mario Silva</b></sub>
+</a>
+<a href="https://github.com/AndersonDamico">
+    <br />
+    <sub><b>Anderson Damico</b></sub>
+</a>
