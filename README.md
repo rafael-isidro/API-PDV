@@ -12,26 +12,30 @@ Este é um projeto de estudos desenvolvido para o módulo 5 do curso de desenvol
 
 ## ⚙️ Funcionalidades
 A API PDV oferece as seguintes funcionalidades:
-
+CATEGORIAS:
 - Cadastro de Categorias
 - Listar Categorias
 
+USUÁRIOS:
 - Cadastro de Usuário
 - Login de Usuário
 - Detalhar Perfil do Usuário Logado
 - Editar Perfil do Usuário Logado
 
+PRODUTOS:
 - Cadastro de Produto
 - Editar Dados do Produto
 - Listar Produtos
 - Detalhar Produto
 - Excluir Produto por ID
 
+CLIENTES:
 - Cadastro de Cliente
 - Editar Dados do Cliente
 - Listar Clientes
 - Detalhar Cliente
 
+PEDIDOS:
 - Cadastrar Pedido
 - Listar Pedidos
 
