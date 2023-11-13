@@ -89,72 +89,74 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🧱 Estrutura do Projeto
 
 ```sh
-src
-  config
-  - conexao_DB.js
-  controladores
-  - index.js
-  - categoria.controladores.js
-  - cliente.controladores.js
-  - login.controladores.js
-  - pedido.controladores.js
-  - produto.controladores.js
-  - usuario.controladores.js
-  esquemas
-  - index.js
-  - cliente.esquemas.js
-  - login.esquemas.js
-  - pedido.esquemas.js
-  - produto esquemas.js
-  - usuario.esquemas.js
-  intermediarios
-  - index.js
-  - multer.js
-  - validaCorpoRequisicao.js
-  - verificaDadosCliente.js
-  - verificaDadosPedido.js
-  - verificaEmail.js
-  - verificald.js
-  - verificaLogin.js
-  - verificaToken.js
-  repositorios
-  - index.js
-  - categoria.repositorios.js
-  - cliente.repositorios.js
-  - pedido.repositorios.js
-  - produto.repositorios.js
-  - usuario.repositorios.js
-  rotas
-  - index.js
-  - categoria.rotas.js
-  - cliente.rotas.js
-  - login.rotas.js
-  - pedido.rotas.js
-  - produto.rotas.js
-  - usuario.rotas.js
-  servicos
-  - index.js
-  - categoria.servicos.js
-  - cliente.servicos.js
-  - login.servicos.js
-  - pedido.servicos.js
-  - produto.servicos.js
-  - usuario.servicos.js
-  templates
-  - email.html
-  utilitarios
-  - index.js
-  - backBlaze.js
-  - nodeMailer.js
-  dump.sql
-  erros.js
-  index.js
-.editorconfig
-.env.exemplo
-.eslintrc.json
-.gitignore
-.prettierrc
-.package-lock.json
-.package.json
+.
+├── src
+│   ├── config
+│   │   └── conexao_DB.js
+│   ├── controladores
+│   │   ├── index.js
+│   │   ├── categoria.controladores.js
+│   │   ├── cliente.controladores.js
+│   │   ├── login.controladores.js
+│   │   ├── pedido.controladores.js
+│   │   ├── produto.controladores.js
+│   │   └── usuario.controladores.js
+│   ├── esquemas
+│   │   ├── index.js
+│   │   ├── cliente.esquemas.js
+│   │   ├── login.esquemas.js
+│   │   ├── pedido.esquemas.js
+│   │   ├── produto esquemas.js
+│   │   └── usuario.esquemas.js
+│   ├── intermediarios
+│   │   ├── index.js
+│   │   ├── multer.js
+│   │   ├── validaCorpoRequisicao.js
+│   │   ├── verificaDadosCliente.js
+│   │   ├── verificaDadosPedido.js
+│   │   ├── verificaEmail.js
+│   │   ├── verificald.js
+│   │   ├── verificaLogin.js
+│   │   └── verificaToken.js
+│   ├── repositorios
+│   │   ├── index.js
+│   │   ├── categoria.repositorios.js
+│   │   ├── cliente.repositorios.js
+│   │   ├── pedido.repositorios.js
+│   │   ├── produto.repositorios.js
+│   │   └── usuario.repositorios.js
+│   ├── rotas
+│   │   ├── index.js
+│   │   ├── categoria.rotas.js
+│   │   ├── cliente.rotas.js
+│   │   ├── login.rotas.js
+│   │   ├── pedido.rotas.js
+│   │   ├── produto.rotas.js
+│   │   └── usuario.rotas.js
+│   ├── servicos
+│   │   ├── index.js
+│   │   ├── categoria.servicos.js
+│   │   ├── cliente.servicos.js
+│   │   ├── login.servicos.js
+│   │   ├── pedido.servicos.js
+│   │   ├── produto.servicos.js
+│   │   └── usuario.servicos.js
+│   ├── templates
+│   │   └── email.html
+│   ├── utilitarios
+│   │   ├── index.js
+│   │   ├── backBlaze.js
+│   │   ├── nodeMailer.js
+│   ├── dump.sql
+│   ├── erros.js
+│   └── index.js
+├── .editorconfig
+├── .env.exemplo
+├── .eslintrc.json
+├── .gitignore
+├── .prettierrc
+├── package-lock.json
+└── package.json
+
 
 ```
