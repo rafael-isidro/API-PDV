@@ -60,9 +60,6 @@ $ cd seu-repositorio
 # Instale as dependências
 $ npm install
 
-# Execute o script de criação do banco de dados e tabelas
-$ npm run db:init
-
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
