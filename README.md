@@ -6,12 +6,12 @@ API PDV
     Bem-vindo ao projeto da API PDV! Esta é uma API construída para um PDV (Ponto de Venda) que oferece funcionalidades para gerenciar categorias, clientes, pedidos, produtos e usuários. Siga as instruções abaixo para entender como executar o projeto e utilizar suas funcionalidades.
 </h3>
 
-💻 Sobre o projeto
+## 💻 Sobre o projeto
 Este é um projeto de estudos desenvolvido para o módulo 5 do curso de desenvolvimento da Cubos Academy. O objetivo é construir uma API para um PDV, permitindo operações como cadastro de categorias, clientes, produtos, usuários, além de realizar pedidos.
 
 ---
 
-⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 A API PDV oferece as seguintes funcionalidades:
 
 - Cadastro de Categorias
@@ -38,7 +38,7 @@ A API PDV oferece as seguintes funcionalidades:
 
 ---
 
-▶️ Como executar o projeto
+## ▶️ Como executar o projeto
 Pré-requisitos:
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 Git, Node.js.
@@ -68,7 +68,7 @@ $ npm run dev
 
 ---
 
-🛠 Tecnologias
+## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - Node.js
