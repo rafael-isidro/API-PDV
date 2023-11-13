@@ -1,4 +1,3 @@
-API PDV
 <h1 align="center">
     <a href="#" alt="API PDV"> API PDV </a>
 </h1>
