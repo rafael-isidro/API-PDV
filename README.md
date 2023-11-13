@@ -2,7 +2,7 @@
     <a href="#" alt="API PDV"> API PDV </a>
 </h1>
 <h3 align="center">
-    Bem-vindo ao projeto da API PDV! Esta é uma API construída para um PDV (Ponto de Venda) que oferece funcionalidades para gerenciar categorias, clientes, pedidos, produtos e usuários. Siga as instruções abaixo para entender como executar o projeto e utilizar suas funcionalidades.
+    Bem-vindo ao projeto da API PDV! Esta é uma API construída para um PDV (Ponto de Venda) que oferece funcionalidades para gerenciar categorias, clientes, pedidos, produtos e usuários.
 </h3>
 
 ## 💻 Sobre o projeto
