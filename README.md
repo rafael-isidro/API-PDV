@@ -12,6 +12,7 @@ Este é um projeto de estudos desenvolvido para o módulo 5 do curso de desenvol
 
 ## ⚙️ Funcionalidades
 A API PDV oferece as seguintes funcionalidades:
+
 CATEGORIAS:
 - Cadastro de Categorias
 - Listar Categorias
