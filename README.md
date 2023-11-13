@@ -2,7 +2,7 @@
   <img src="api-pdv-cover.png" alt="API COVER" height="282px" width="637">
 </h1>
 <h3 align="center">
-    Bem-vindo ao projeto da API PDV! Esta é uma API construída para um PDV (Ponto de Venda) que oferece funcionalidades para gerenciar categorias, clientes, pedidos, produtos e usuários.
+    Bem-vindo ao projeto da API PDV! Esta é uma API construída para um PDV (Ponto de Vendas) que oferece funcionalidades para gerenciar categorias, clientes, pedidos, produtos e usuários.
 </h3>
 
 
