@@ -157,7 +157,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 │   ├── utilitarios
 │   │   ├── index.js
 │   │   ├── backBlaze.js
-│   │   ├── nodeMailer.js
+│   │   └── nodeMailer.js
 │   ├── dump.sql
 │   ├── erros.js
 │   └── index.js
