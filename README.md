@@ -5,6 +5,19 @@
     Bem-vindo ao projeto da API PDV! Esta é uma API construída para um PDV (Ponto de Venda) que oferece funcionalidades para gerenciar categorias, clientes, pedidos, produtos e usuários.
 </h3>
 
+
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Funcionalidades](#%EF%B8%8F-funcionalidades)
+   * [Como executar o projeto](#%EF%B8%8F-como-executar-o-projeto)
+     * [Pré-requisitos](#pré-requisitos)
+     * [Rodando o Projeto](#rodando-o-projeto)
+   * [Tecnologias](#-tecnologias)
+   * [Estrutura do Projeto](#-estrutura-do-projeto)
+<!--te-->
+
 ## 💻 Sobre o projeto
 Este é um projeto de estudos desenvolvido para o módulo 5 do curso de desenvolvimento da Cubos Academy. O objetivo é construir uma API para um PDV, permitindo operações como cadastro de categorias, clientes, produtos, usuários, além de realizar pedidos.
 
